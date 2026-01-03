@@ -433,15 +433,9 @@ body:hover .cursor-glow {
     transform: scale(1.02);
 }
 
+/* 装飾なし - シンプルなデザイン */
 .hero-image-decoration {
-    position: absolute;
-    top: -20px;
-    right: -20px;
-    width: 100px;
-    height: 100px;
-    border: 1px solid var(--color-gold);
-    opacity: 0.2;
-    z-index: -1;
+    display: none;
 }
 
 /* Scroll Indicator */
