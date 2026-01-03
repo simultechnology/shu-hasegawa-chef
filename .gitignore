@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Original images (backups)
+assets/images/*-original.png
+
+# Project info/prompts
+info/
+prompt.txt
